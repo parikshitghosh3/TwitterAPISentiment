@@ -1,0 +1,17 @@
+Enter Keyword/Tag to search about: covid
+Enter how many tweets to search: 400
+Enter Start date in format YYYY-MM-DD: 2020-01-01
+Enter End date in format YYYY-MM-DD: 2020-04-30
+How people are reacting on covid by analyzing 400 tweets.
+
+General Report:
+Weakly Positive
+
+Detailed Report:
+9.75% people thought it was positive
+29.50% people thought it was weakly positive
+1.50% people thought it was strongly positive
+10.25% people thought it was negative
+13.25% people thought it was weakly negative
+0.75% people thought it was strongly negative
+34.75% people thought it was neutral
