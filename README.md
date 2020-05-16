@@ -12,7 +12,7 @@
 
 # To install commands through pip:
 
-	` pip install tweepy `
+	 pip install tweepy 
 
 ## Without Official API
 
