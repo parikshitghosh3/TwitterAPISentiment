@@ -12,7 +12,7 @@
 
 # To install commands through pip:
 
-	``` pip install tweepy ```
+	` pip install tweepy `
 
 ## Without Official API
 
@@ -23,7 +23,7 @@ There are some limitations of the Official Twitter API, it will not allow you to
 	- You might still need to download and install some modules of python like nltk, pandas, etc.
 	- The CSV generated data is stored in output_got3.csv
 
-For the Without API Execution I have worked on the Open Source Repository of [Jefferson Henrique](https://github.com/Jefferson-Henrique) which is [this](https://github.com/parikshitghosh3/GetOldTweets-python)
+For the Without API Execution I have worked on the Open Source Repository of [Jefferson Henrique](https://github.com/Jefferson-Henrique) which is [this](https://github.com/parikshitghosh3/GetOldTweets-python).
 
 ## Effect of Demonetization on Stock Market
 
